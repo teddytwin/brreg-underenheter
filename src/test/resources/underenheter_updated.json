@@ -1,0 +1,108 @@
+[ {
+  "organisasjonsnummer" : "981452984",
+  "navn" : "PENNY INVEST AS",
+  "organisasjonsform" : {
+    "kode" : "BEDR",
+    "beskrivelse" : "Bedrift",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2000-01-13",
+  "registrertIMvaregisteret" : false,
+  "naeringskode1" : {
+    "beskrivelse" : "Utleie av egen eller leid fast eiendom ellers",
+    "kode" : "68.209"
+  },
+  "antallAnsatte" : 3,
+  "overordnetEnhet" : "981090799",
+  "oppstartsdato" : "1999-09-10",
+  "beliggenhetsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "4056",
+    "poststed" : "TANANGER",
+    "adresse" : [ "Risavika Havnering 149" ],
+    "kommune" : "SOLA",
+    "kommunenummer" : "1124"
+  },
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "981452992",
+  "navn" : "HAV BULK AS",
+  "organisasjonsform" : {
+    "kode" : "BEDR",
+    "beskrivelse" : "Bedrift",
+    "links" : [ ]
+  },
+  "hjemmeside" : "www.hav.no",
+  "registreringsdatoEnhetsregisteret" : "2000-01-13",
+  "registrertIMvaregisteret" : false,
+  "naeringskode1" : {
+    "beskrivelse" : "Utenriks sjøfart med gods, oppdatert beskrivelse",
+    "kode" : "50.201"
+  },
+  "antallAnsatte" : 0,
+  "overordnetEnhet" : "981100190",
+  "oppstartsdato" : "1999-09-08",
+  "beliggenhetsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "0250",
+    "poststed" : "OSLO",
+    "adresse" : [ "Filipstadveien 5" ],
+    "kommune" : "OSLO",
+    "kommunenummer" : "0301"
+  },
+  "links" : [ ]
+},{
+  "organisasjonsnummer" : "978553095",
+  "navn" : "GJERDE GEIR",
+  "organisasjonsform" : {
+    "kode" : "BEDR",
+    "beskrivelse" : "Bedrift",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "1997-07-11",
+  "registrertIMvaregisteret" : false,
+  "naeringskode1" : {
+    "beskrivelse" : "Oppdrett av annet storfe",
+    "kode" : "01.420"
+  },
+  "antallAnsatte" : 0,
+  "overordnetEnhet" : "970563377",
+  "oppstartsdato" : "1983-02-25",
+  "beliggenhetsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "6083",
+    "poststed" : "GJERDSVIKA",
+    "adresse" : [ "GJERDE" ],
+    "kommune" : "SANDE",
+    "kommunenummer" : "1514"
+  },
+  "links" : [ ]
+},{
+  "organisasjonsnummer" : "979275307",
+  "navn" : "STIFTELSEN MUSICANORD",
+  "organisasjonsform" : {
+    "kode" : "AAFY",
+    "beskrivelse" : "Virksomhet til ikke-næringsdrivende person",
+    "links" : [ ]
+  },
+  "hjemmeside" : "www.grieginbergen.com",
+  "postadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "5807",
+    "poststed" : "BERGEN",
+    "adresse" : [ "Postboks 676  Sentrum" ],
+    "kommune" : "BERGEN",
+    "kommunenummer" : "4601"
+  },
+  "registreringsdatoEnhetsregisteret" : "1997-09-26",
+  "registrertIMvaregisteret" : false,
+  "naeringskode1" : {
+    "beskrivelse" : "Utøvende kunstnere og underholdningsvirksomhet innen musikk",
+    "kode" : "90.011"
+  },
+  "links" : [ ]
+}]

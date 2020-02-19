@@ -1,0 +1,57 @@
+[ {
+  "organisasjonsnummer" : "981452984",
+  "navn" : "PENNY INVEST AS",
+  "organisasjonsform" : {
+    "kode" : "BEDR",
+    "beskrivelse" : "Bedrift",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2000-01-13",
+  "registrertIMvaregisteret" : false,
+  "naeringskode1" : {
+    "beskrivelse" : "Utleie av egen eller leid fast eiendom ellers",
+    "kode" : "68.209"
+  },
+  "antallAnsatte" : 3,
+  "overordnetEnhet" : "981090799",
+  "oppstartsdato" : "1999-09-10",
+  "beliggenhetsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "4056",
+    "poststed" : "TANANGER",
+    "adresse" : [ "Risavika Havnering 149" ],
+    "kommune" : "SOLA",
+    "kommunenummer" : "1124"
+  },
+  "links" : [ ]
+}, {
+  "organisasjonsnummer" : "981452992",
+  "navn" : "HAV BULK AS",
+  "organisasjonsform" : {
+    "kode" : "BEDR",
+    "beskrivelse" : "Bedrift",
+    "links" : [ ]
+  },
+  "hjemmeside" : "www.hav.no",
+  "registreringsdatoEnhetsregisteret" : "2000-01-13",
+  "registrertIMvaregisteret" : false,
+  "naeringskode1" : {
+    "beskrivelse" : "Utenriks sjøfart med gods",
+    "kode" : "50.201"
+  },
+  "antallAnsatte" : 0,
+  "overordnetEnhet" : "981100190",
+  "oppstartsdato" : "1999-09-08",
+  "beliggenhetsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "0250",
+    "poststed" : "OSLO",
+    "adresse" : [ "Filipstadveien 5" ],
+    "kommune" : "OSLO",
+    "kommunenummer" : "0301"
+  },
+  "links" : [ ]
+}
+]

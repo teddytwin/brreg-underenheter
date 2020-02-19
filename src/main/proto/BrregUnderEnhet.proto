@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+
+package no.nav.underenhet.proto;
+
+option java_package = "no.nav.underenhet.proto";
+option java_outer_classname = "UnderenhetProto";
+
+message UnderenhetKey {
+    string orgnr = 1;
+    }
+
+message UnderenhetValue {
+    string json = 1;
+    int32 hashvalue = 2;
+}
